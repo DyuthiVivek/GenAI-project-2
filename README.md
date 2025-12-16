@@ -1,6 +1,6 @@
 ## Team Members
 Swetha Murali - IMT2022018 <br>
-Soham Pawar - IMT2022127
+Soham Pawar - IMT2022127 <br>
 Dyuthi Vivek - IMT2022523
 
 ## Thermal to RGB
