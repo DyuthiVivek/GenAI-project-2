@@ -10,3 +10,4 @@ Add this kaggle dataset https://www.kaggle.com/datasets/deepnewbie/flir-thermal-
 
 ## Sketch2Webpage
 
+1.`synthetic.ipynb`: cotnains code to create the synthetic dataset from original HTML files (https://huggingface.co/datasets/SALT-NLP/Sketch2Code).
