@@ -1,3 +1,8 @@
+## Team Members
+Swetha Murali - IMT2022018
+Soham Pawar - IMT2022127
+Dyuthi Vivek - IMT2022523
+
 ## Thermal to RGB
 
 Create a HuggingFace user access token and add it in the files.
